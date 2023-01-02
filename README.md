@@ -9,4 +9,4 @@ This provides a way to quickly create Amazon Lambda layers for python. It utiliz
 5. After runner.sh exectues, it creates a zip file called python.zip. This is the lambda layer that you will upload. Simply upload the python.zip or move the python.zip file to a different folder to create a new layer.
 
 
-##### Credit: Felix Yu -> https://www.youtube.com/watch?v=jXjMrWCpaI8
+##### Credit: Felix Yu -> https://github.com/felixyu9
